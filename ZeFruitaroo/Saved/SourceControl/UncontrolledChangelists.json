@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/shari/Documents/GitHub/Ze-Fruitaroo/ZeFruitaroo/Content/IMC_Game.uasset",
+				"C:/Users/shari/Documents/GitHub/Ze-Fruitaroo/ZeFruitaroo/Content/Character/IA_Pause.uasset",
+				"C:/Users/shari/Documents/GitHub/Ze-Fruitaroo/ZeFruitaroo/Content/Character/IMC_Game.uasset",
+				"C:/Users/shari/Documents/GitHub/Ze-Fruitaroo/ZeFruitaroo/Content/Character/Inputs/IA_Pause.uasset",
+				"C:/Users/shari/Documents/GitHub/Ze-Fruitaroo/ZeFruitaroo/Content/Character/Inputs/IMC_Game.uasset",
+				"C:/Users/shari/Documents/GitHub/Ze-Fruitaroo/ZeFruitaroo/Content/NPCs/BP_Path.uasset",
+				"C:/Users/shari/Documents/GitHub/Ze-Fruitaroo/ZeFruitaroo/Content/NPCs/BPI_EnemyPathing.uasset",
+				"C:/Users/shari/Documents/GitHub/Ze-Fruitaroo/ZeFruitaroo/Content/NPCs/BP_Enemy.uasset",
+				"C:/Users/shari/Documents/GitHub/Ze-Fruitaroo/ZeFruitaroo/Content/NPCs/BT_EnemyPathingTree.uasset",
+				"C:/Users/shari/Documents/GitHub/Ze-Fruitaroo/ZeFruitaroo/Content/Character/Inputs/IA_Move.uasset",
+				"C:/Users/shari/Documents/GitHub/Ze-Fruitaroo/ZeFruitaroo/Content/UI/Main_Menu.uasset",
 				"C:/Users/kevin/Documents/Projects/Ze-Fruitaroo/ZeFruitaroo/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
