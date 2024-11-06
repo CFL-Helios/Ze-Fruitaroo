@@ -7,6 +7,10 @@
 			"files": [
 				"C:/Users/kevin/Documents/Projects/Ze-Fruitaroo/ZeFruitaroo/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/kevin/Documents/Projects/Ze-Fruitaroo/ZeFruitaroo/Content/UI/WBP_HUD.uasset",
+				"C:/Users/kevin/Documents/Projects/Ze-Fruitaroo/ZeFruitaroo/Content/Fruit/BP_GroundSpawner.uasset",
+				"C:/Users/kevin/Documents/Projects/Ze-Fruitaroo/ZeFruitaroo/Content/Fruit/BP_Fruit.uasset",
+				"C:/Users/kevin/Documents/Projects/Ze-Fruitaroo/ZeFruitaroo/Content/Fruit/BP_PlantSpawner.uasset",
+				"C:/Users/kevin/Documents/Projects/Ze-Fruitaroo/ZeFruitaroo/Content/Character/Character_Blueprints/BP_CharacterMAIN.uasset",
 				"D:/repo/Ze-Fruitaroo/ZeFruitaroo/Content/Character/Character_Blueprints/BPI_InteractInterface.uasset",
 				"D:/repo/Ze-Fruitaroo/ZeFruitaroo/Content/Character/Character_Blueprints/BP_CharacterMAIN.uasset",
 				"D:/repo/Ze-Fruitaroo/ZeFruitaroo/Content/Character/Character_Blueprints/WBP_HUD.uasset",
